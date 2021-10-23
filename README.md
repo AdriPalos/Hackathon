@@ -1,5 +1,4 @@
 # Hackathon
-# Hackathon
 
 ## Organización del repositorio 
 
